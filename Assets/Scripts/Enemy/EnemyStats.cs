@@ -94,6 +94,18 @@ public class EnemyStats : MonoBehaviour, ICombatant
     {
         _effects = GetComponent<StatusEffectHandler>();
         _currentHP = maxHP;
+
+        // Restore permanent defeat from saved flags
+        if (isBoss && WorldFlagManager.Instance != null)
+        {
+            string flag = $"boss_defeated_{enemyName.Replace(" ", "_").ToLower()}";
+            if (WorldFlagManager.Instance.HasFlag(flag))
+            {
+                _permanentlyDefeated = true;
+                gameObject.SetActive(false);
+                Debug.Log($"[EnemyStats] {enemyName} was previously defeated (restored from flags).");
+            }
+        }
     }
 
     /// <summary>
@@ -141,6 +153,14 @@ public class EnemyStats : MonoBehaviour, ICombatant
             if (isBoss)
             {
                 _permanentlyDefeated = true;
+
+                // Persist to WorldFlagManager so the defeat survives save/load
+                if (WorldFlagManager.Instance != null)
+                {
+                    string flag = $"boss_defeated_{enemyName.Replace(" ", "_").ToLower()}";
+                    WorldFlagManager.Instance.SetFlag(flag);
+                }
+
                 Debug.Log($"[EnemyStats] BOSS {enemyName} permanently defeated! Will not respawn.");
             }
 

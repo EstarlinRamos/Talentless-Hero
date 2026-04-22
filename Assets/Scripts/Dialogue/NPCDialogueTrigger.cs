@@ -72,6 +72,11 @@ public class NPCDialogueTrigger : MonoBehaviour
     [Tooltip("Dialogues that activate when conditions are met. First match wins.")]
     [SerializeField] private List<DialogueCondition> conditionalDialogues = new List<DialogueCondition>();
 
+    [Header("Identity")]
+    [Tooltip("Unique ID for this NPC (used to persist met/one-shot state across saves). " +
+             "Use lowercase with no spaces, e.g. 'innkeeper', 'guard_a', 'old_man'.")]
+    [SerializeField] private string npcID = "";
+
     [Header("Interaction")]
     [Tooltip("How close the player must be to interact (in world units).")]
     [SerializeField] private float interactionRange = 1.5f;
@@ -102,6 +107,26 @@ public class NPCDialogueTrigger : MonoBehaviour
         {
             _playerTransform = player.transform;
             _playerMovement = player.GetComponent<PlayerMovement>();
+        }
+
+        // Restore persisted state from WorldFlagManager
+        RestoreFromFlags();
+    }
+
+    /// <summary>
+    /// Read flags to restore whether we've met the player and which
+    /// conditional one-shots have already played.
+    /// </summary>
+    private void RestoreFromFlags()
+    {
+        if (WorldFlagManager.Instance == null || string.IsNullOrEmpty(npcID)) return;
+
+        _hasMetPlayer = WorldFlagManager.Instance.HasFlag($"npc_met_{npcID}");
+
+        for (int i = 0; i < conditionalDialogues.Count; i++)
+        {
+            conditionalDialogues[i].oneShotPlayed =
+                WorldFlagManager.Instance.HasFlag($"npc_oneshot_{npcID}_{i}");
         }
     }
 
@@ -176,14 +201,19 @@ public class NPCDialogueTrigger : MonoBehaviour
     /// </summary>
     private DialogueData ResolveDialogue()
     {
+        bool hasFlags = WorldFlagManager.Instance != null && !string.IsNullOrEmpty(npcID);
+
         // 1. Check conditional dialogues (first matching condition wins)
-        foreach (var condition in conditionalDialogues)
+        for (int i = 0; i < conditionalDialogues.Count; i++)
         {
+            var condition = conditionalDialogues[i];
             if (condition.IsMet())
             {
                 if (!condition.oneShotPlayed && condition.oneShotDialogue != null)
                 {
                     condition.oneShotPlayed = true;
+                    if (hasFlags)
+                        WorldFlagManager.Instance.SetFlag($"npc_oneshot_{npcID}_{i}");
                     return condition.oneShotDialogue;
                 }
 
@@ -196,11 +226,18 @@ public class NPCDialogueTrigger : MonoBehaviour
         if (!_hasMetPlayer && firstMeetingDialogue != null)
         {
             _hasMetPlayer = true;
+            if (hasFlags)
+                WorldFlagManager.Instance.SetFlag($"npc_met_{npcID}");
             return firstMeetingDialogue;
         }
 
         // 3. Default repeating dialogue
-        _hasMetPlayer = true;
+        if (!_hasMetPlayer)
+        {
+            _hasMetPlayer = true;
+            if (hasFlags)
+                WorldFlagManager.Instance.SetFlag($"npc_met_{npcID}");
+        }
         return defaultDialogue;
     }
 

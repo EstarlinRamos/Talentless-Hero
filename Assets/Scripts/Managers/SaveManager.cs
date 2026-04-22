@@ -99,6 +99,8 @@ public class SaveManager : MonoBehaviour
             EXPRewardSystem.Instance.ResetForNewGame();
         if (InventoryManager.Instance != null)
             InventoryManager.Instance.ResetForNewGame();
+        if (WorldFlagManager.Instance != null)
+            WorldFlagManager.Instance.ResetForNewGame();
 
         var playerObj = GameObject.FindGameObjectWithTag("Player");
         var playerStats = playerObj != null ? playerObj.GetComponent<PlayerStats>() : null;
@@ -410,7 +412,12 @@ public class SaveManager : MonoBehaviour
 
     private QuestSaveData CaptureQuests() => new QuestSaveData();
     private NPCSaveData CaptureNPCs() => new NPCSaveData();
-    private WorldFlagData CaptureWorldFlags() => new WorldFlagData();
+    private WorldFlagData CaptureWorldFlags()
+    {
+        return WorldFlagManager.Instance != null
+            ? WorldFlagManager.Instance.CaptureForSave()
+            : new WorldFlagData();
+    }
 
     // ═════════════════════════════════════════════
     //  State Apply — Load order matters:
@@ -423,6 +430,12 @@ public class SaveManager : MonoBehaviour
     {
         string targetScene = data.position?.sceneName ?? SceneManager.GetActiveScene().name;
         _pendingLoadData = data;
+
+        // Apply world flags BEFORE loading the scene.
+        // EnemyStats.Awake checks flags to stay dead, so flags must
+        // be set before the scene's GameObjects initialize.
+        if (data.worldFlags != null && WorldFlagManager.Instance != null)
+            WorldFlagManager.Instance.LoadFromSave(data.worldFlags);
 
         SceneManager.sceneLoaded += OnSceneLoadedFromSave;
         SceneManager.LoadScene(targetScene);
