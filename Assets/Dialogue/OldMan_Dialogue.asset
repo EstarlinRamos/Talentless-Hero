@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6fced335fe0e624e8c9d175d9ff6239, type: 3}
+  m_Name: OldMan_Dialogue
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  startNodeIndex: 0
+  nodes:
+  - editorLabel: Old Man - Greeting
+    lines:
+    - speaker: Old Man
+      text: Hm? Who are you? I know every face in this village, and yours isn't one
+        of them.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: "Nobody's come in through the roads \u2014 the guards have seen to that.
+        And the only other way in is the mountain staircase, which leads to nothing
+        but goat trails."
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: ...No, don't tell me. I've lived long enough to know when something strange
+        is happening.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices:
+    - choiceText: (What do you know about the guards?)
+      nextNodeIndex: 1
+    - choiceText: (Is there something dangerous nearby?)
+      nextNodeIndex: 2
+    - choiceText: (I'm just passing through.)
+      nextNodeIndex: 3
+    nextNodeIndex: -1
+  - editorLabel: Old Man - Guards
+    lines:
+    - speaker: Old Man
+      text: Those guards? Useless, the lot of them.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: They showed up a week ago, blocked the eastern road, and have done nothing
+        since. Meanwhile, the forest gets worse every day.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: I sit here at my fire and I can hear things moving in the tree line at
+        night. Whatever's causing this, it's deep in the forest. South.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: There are caves at the far end, past the great tree. I'd wager that's
+        where the source is.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: But nobody listens to an old man. The guards certainly don't.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices: []
+    nextNodeIndex: 4
+  - editorLabel: Old Man - The Danger
+    lines:
+    - speaker: Old Man
+      text: "Dangerous? Yes. Something has settled deep in the forest. I can feel
+        it in the air \u2014 a wrongness."
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: The animals fled first. Then the monsters came. Small things at first,
+        but more every week. They're drawn to something.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: There are caves at the far end of the forest, past the great tree. If
+        I were a younger man, I'd go look myself.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: Three hunters already tried. I watched them head south from this very
+        spot.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: None of them came back.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 1.5
+      tags: []
+    - speaker: Old Man
+      text: ...A shame, really. They were good people.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices: []
+    nextNodeIndex: 4
+  - editorLabel: Old Man - Suspicious
+    lines:
+    - speaker: Old Man
+      text: '''Just passing through.'' Through a village with every exit watched.'
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: You appeared out of nowhere in a place nobody can enter or leave. That's
+        not 'passing through,' that's something else entirely.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: ...But you don't look like a threat. You don't look like much of anything,
+        really. No offense.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: If you're looking for something to do, the forest to the south could
+        use investigating. There are caves at the far end that nobody's been brave
+        enough to check.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: Or foolish enough, depending on how you look at it.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices: []
+    nextNodeIndex: 4
+  - editorLabel: Old Man - The Push
+    lines:
+    - speaker: Old Man
+      text: You know, you might be exactly what this village needs.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: An outsider. Someone nobody knows. Someone who could go into that forest
+        and poke around without drawing attention.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: The villagers are too scared, the guards are too stupid, and I'm too
+        old. But you... you've got nothing to lose.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: Head south through the forest, past the great tree with the flowers on
+        its trunk. The caves are at the end of the path.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Old Man
+      text: I'd keep it quiet, though. No need to worry the others.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices: []
+    nextNodeIndex: -1

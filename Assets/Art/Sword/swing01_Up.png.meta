@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 2557d7eab0d494b4ab031883b812f83d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -832839801777119977
+    second: swing01_Up_0
+  - first:
+      213: 5827947978550746649
+    second: swing01_Up_1
+  - first:
+      213: 6203498534681789137
+    second: swing01_Up_2
+  - first:
+      213: 8888326098761944198
+    second: swing01_Up_3
+  - first:
+      213: 6315546018907614608
+    second: swing01_Up_4
+  - first:
+      213: -4509280095669605457
+    second: swing01_Up_5
+  - first:
+      213: 2361047235269814037
+    second: swing01_Up_6
+  - first:
+      213: 8150778598352030937
+    second: swing01_Up_7
+  - first:
+      213: 8826088520630238748
+    second: swing01_Up_8
+  - first:
+      213: -1434299169491187788
+    second: swing01_Up_9
+  - first:
+      213: 7345514295838596490
+    second: swing01_Up_10
+  - first:
+      213: 5879588034010179915
+    second: swing01_Up_11
+  - first:
+      213: 5769254215770947605
+    second: swing01_Up_12
+  - first:
+      213: 1076418650670330092
+    second: swing01_Up_13
+  - first:
+      213: 596231496102429098
+    second: swing01_Up_14
+  - first:
+      213: -5014045532985585688
+    second: swing01_Up_15
+  - first:
+      213: -4035021051012981798
+    second: swing01_Up_16
+  - first:
+      213: 5071969200792835240
+    second: swing01_Up_17
+  - first:
+      213: 7713451527932203053
+    second: swing01_Up_18
+  - first:
+      213: 2984056139184790556
+    second: swing01_Up_19
+  - first:
+      213: 8191927676978936813
+    second: swing01_Up_20
+  - first:
+      213: -8881790257119499993
+    second: swing01_Up_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swing01_Up_0
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2064
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d9444ec982174f0800000000000000
+      internalID: -832839801777119977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_1
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1966
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e19f60fc701e050800000000000000
+      internalID: 5827947978550746649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_2
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1879
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d24d5cbc01471650800000000000000
+      internalID: 6203498534681789137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1775
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c0a849e7da95b70800000000000000
+      internalID: 8888326098761944198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_4
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1679
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dee9b94a355a750800000000000000
+      internalID: 6315546018907614608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1685
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabafd8e4a1db61c0800000000000000
+      internalID: -4509280095669605457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_6
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1590
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517ec2c73ff14c020800000000000000
+      internalID: 2361047235269814037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1480
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc01a553f16d1170800000000000000
+      internalID: 8150778598352030937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1405
+        width: 118
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e71543fb09c7a70800000000000000
+      internalID: 8826088520630238748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1268
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b707dc2188581ce0800000000000000
+      internalID: -1434299169491187788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1220
+        width: 142
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d5308755280f560800000000000000
+      internalID: 7345514295838596490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_11
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1256
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4960d06a2e789150800000000000000
+      internalID: 5879588034010179915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_12
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1059
+        width: 152
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510c3f57422801050800000000000000
+      internalID: 5769254215770947605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_13
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1050
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce07fc64f0530fe00800000000000000
+      internalID: 1076418650670330092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_14
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 847
+        width: 115
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1c511036d364800800000000000000
+      internalID: 596231496102429098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 838
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef82ce37288a6ab0800000000000000
+      internalID: -5014045532985585688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_16
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 651
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbd5298bb9b008c0800000000000000
+      internalID: -4035021051012981798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_17
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 641
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a49afc9d11436640800000000000000
+      internalID: 5071969200792835240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_18
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20d79a0c4fab0b60800000000000000
+      internalID: 7713451527932203053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_19
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 436
+        width: 25
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cdee59f3f796920800000000000000
+      internalID: 2984056139184790556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_20
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 245
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb350cc1d29fa170800000000000000
+      internalID: 8191927676978936813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing01_Up_21
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729edd2a1da8db480800000000000000
+      internalID: -8881790257119499993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      swing01_Up_0: -832839801777119977
+      swing01_Up_1: 5827947978550746649
+      swing01_Up_10: 7345514295838596490
+      swing01_Up_11: 5879588034010179915
+      swing01_Up_12: 5769254215770947605
+      swing01_Up_13: 1076418650670330092
+      swing01_Up_14: 596231496102429098
+      swing01_Up_15: -5014045532985585688
+      swing01_Up_16: -4035021051012981798
+      swing01_Up_17: 5071969200792835240
+      swing01_Up_18: 7713451527932203053
+      swing01_Up_19: 2984056139184790556
+      swing01_Up_2: 6203498534681789137
+      swing01_Up_20: 8191927676978936813
+      swing01_Up_21: -8881790257119499993
+      swing01_Up_3: 8888326098761944198
+      swing01_Up_4: 6315546018907614608
+      swing01_Up_5: -4509280095669605457
+      swing01_Up_6: 2361047235269814037
+      swing01_Up_7: 8150778598352030937
+      swing01_Up_8: 8826088520630238748
+      swing01_Up_9: -1434299169491187788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

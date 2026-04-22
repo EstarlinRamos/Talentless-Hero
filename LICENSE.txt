@@ -1,0 +1,43 @@
+# LICENSE
+
+## All Rights Reserved
+
+Copyright (c) 2026 Estarlin Ramos. All rights reserved.
+
+## Terms
+
+This repository and its contents — including but not limited to all source code, game assets, sprites, audio, documentation, game design, and any other materials — are the intellectual property of the copyright holder.
+
+### What you MAY do
+
+- **View** the source code for personal, educational, or reference purposes.
+- **Fork** the repository on GitHub for the sole purpose of submitting bug reports or suggestions via pull requests, with no guarantee of acceptance.
+
+### What you MAY NOT do
+
+- **Copy, reproduce, or duplicate** any part of this project in your own work.
+- **Modify, adapt, or create derivative works** based on this project or any of its contents.
+- **Distribute, publish, or share** this project or any portion of it, whether in original or modified form.
+- **Use commercially** any part of this project, including but not limited to selling, licensing, sublicensing, or incorporating it into a product or service.
+- **Use any game assets** (sprites, audio, designs, or visual materials) from this repository for any purpose outside of this project.
+- **Claim authorship** of this work or any part of it.
+
+### Third-Party Assets
+
+Some assets used in this project may be sourced from third-party providers under their own licenses. Those assets remain the property of their respective creators and are subject to their original license terms. This license applies only to original work created by the copyright holder.
+
+### Enforcement
+
+Any use of this project's contents beyond what is explicitly permitted above is a violation of this license and may be subject to legal action under applicable copyright law.
+
+### No Warranty
+
+This project is provided "as is" without warranty of any kind. The copyright holder is not liable for any damages arising from the use or inability to use this project.
+
+### Contact
+
+For licensing inquiries, collaboration proposals, or permission requests, contact the copyright holder directly through GitHub.
+
+---
+
+**If a license file is absent from a repository, the work is still protected by copyright. The absence of a license does not grant any rights to use, copy, or distribute the work.**

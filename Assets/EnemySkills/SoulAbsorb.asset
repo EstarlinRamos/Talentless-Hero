@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a3fd0fba3bff3b40bf41106a06f1fb9, type: 3}
+  m_Name: SoulAbsorb
+  m_EditorClassIdentifier: Assembly-CSharp::SkillSoulAbsorb
+  skillName: Soul Absorb
+  description: Drains life force from the target. Deals magic damage and heals for
+    20%.
+  cooldownTurns: 1
+  category: 1
+  aiPriority: 80
+  damageMultiplier: 2.5
+  healPercent: 0.5

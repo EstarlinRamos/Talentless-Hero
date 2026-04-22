@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6fced335fe0e624e8c9d175d9ff6239, type: 3}
+  m_Name: GuardD_Dialogue
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  startNodeIndex: 0
+  nodes:
+  - editorLabel: Guard D - Ironic
+    lines:
+    - speaker: Guard
+      text: Yeah... road's closed. Dangerous creature. Kingdom's orders. You heard
+        the man.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Guard
+      text: Though if I'm being honest, we've been posted here for a week and the
+        most dangerous thing I've seen is a particularly aggressive squirrel.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Guard
+      text: Meanwhile the forest to the south is apparently getting worse by the
+        day. But nobody asked me where I think we should be posted.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: Guard
+      text: I'm sure it makes sense to someone higher up. Probably.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags:
+      - kick
+    choices: []
+    nextNodeIndex: -1

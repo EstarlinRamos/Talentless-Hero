@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 01292507ae8761f478a31270363f637b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5229866844369818627
+    second: shards01_0
+  - first:
+      213: -3882030590419469249
+    second: shards01_1
+  - first:
+      213: -4551129838829230963
+    second: shards01_2
+  - first:
+      213: 6193081561861166665
+    second: shards01_3
+  - first:
+      213: -1258494215330787118
+    second: shards01_4
+  - first:
+      213: 7537964748496189828
+    second: shards01_5
+  - first:
+      213: 7371579124669120435
+    second: shards01_6
+  - first:
+      213: -6394228007181011449
+    second: shards01_7
+  - first:
+      213: 4180558757046144074
+    second: shards01_8
+  - first:
+      213: -849726582163694566
+    second: shards01_9
+  - first:
+      213: -3452404758292126870
+    second: shards01_10
+  - first:
+      213: -7667090922435807033
+    second: shards01_11
+  - first:
+      213: 3862778850245894513
+    second: shards01_12
+  - first:
+      213: -5114620357492916886
+    second: shards01_13
+  - first:
+      213: 8559884689440034488
+    second: shards01_14
+  - first:
+      213: 6585977534065825657
+    second: shards01_15
+  - first:
+      213: -123532754437758919
+    second: shards01_16
+  - first:
+      213: -1206821705671719262
+    second: shards01_17
+  - first:
+      213: 522960071017609038
+    second: shards01_18
+  - first:
+      213: 6082869832300609712
+    second: shards01_19
+  - first:
+      213: -5041018969533577949
+    second: shards01_20
+  - first:
+      213: 6410031191500070045
+    second: shards01_21
+  - first:
+      213: -2610879368893508366
+    second: shards01_22
+  - first:
+      213: 7722538262383254916
+    second: shards01_23
+  - first:
+      213: -7913860050155869008
+    second: shards01_24
+  - first:
+      213: 7242654525180989361
+    second: shards01_25
+  - first:
+      213: 2340397896804021953
+    second: shards01_26
+  - first:
+      213: 7679122520165773707
+    second: shards01_27
+  - first:
+      213: 3648593594652983666
+    second: shards01_28
+  - first:
+      213: -496826371871388716
+    second: shards01_29
+  - first:
+      213: -6489526653231197860
+    second: shards01_30
+  - first:
+      213: 4406263411868308459
+    second: shards01_31
+  - first:
+      213: 3092885368654475744
+    second: shards01_32
+  - first:
+      213: -795333394971819681
+    second: shards01_33
+  - first:
+      213: 166043764501845598
+    second: shards01_34
+  - first:
+      213: 1798746914810467937
+    second: shards01_35
+  - first:
+      213: 9126410524179594166
+    second: shards01_36
+  - first:
+      213: 5074538330779925954
+    second: shards01_37
+  - first:
+      213: -2112234165612611757
+    second: shards01_38
+  - first:
+      213: -8353776438018415723
+    second: shards01_39
+  - first:
+      213: 4509127048072310111
+    second: shards01_40
+  - first:
+      213: 3016035963885826625
+    second: shards01_41
+  - first:
+      213: -8812888781004148836
+    second: shards01_42
+  - first:
+      213: 682956058970626078
+    second: shards01_43
+  - first:
+      213: -5251731272350299859
+    second: shards01_44
+  - first:
+      213: 3314544907410325473
+    second: shards01_45
+  - first:
+      213: -1213300931426736291
+    second: shards01_46
+  - first:
+      213: 5857140040386130909
+    second: shards01_47
+  - first:
+      213: -1556216649370263290
+    second: shards01_48
+  - first:
+      213: 5015561676075248759
+    second: shards01_49
+  - first:
+      213: 68663012265698251
+    second: shards01_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shards01_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb6eb660d7cb67b0800000000000000
+      internalID: -5229866844369818627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 86
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cf8d2feb1402ac0800000000000000
+      internalID: -3882030590419469249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 87
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8427e5468327d0c0800000000000000
+      internalID: -4551129838829230963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 100
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94691cf3ede32f550800000000000000
+      internalID: 6193081561861166665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 101
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0135fcd2ee88ee0800000000000000
+      internalID: -1258494215330787118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 103
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489388b300b3c9860800000000000000
+      internalID: 7537964748496189828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 103
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf7697582c1d4660800000000000000
+      internalID: 7371579124669120435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 104
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7063f1b61832347a0800000000000000
+      internalID: -6394228007181011449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 105
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c426c3a04540a30800000000000000
+      internalID: 4180558757046144074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c1de1fc2a2534f0800000000000000
+      internalID: -849726582163694566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 93
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a632129f9289610d0800000000000000
+      internalID: -3452404758292126870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c877939d65099590800000000000000
+      internalID: -7667090922435807033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 86
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1716ccef5e85b9530800000000000000
+      internalID: 3862778850245894513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 93
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d37ae12e73509b0800000000000000
+      internalID: -5114620357492916886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec068d5c1dac670800000000000000
+      internalID: 8559884689440034488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 83
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97752b85ca7166b50800000000000000
+      internalID: 6585977534065825657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 78
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930ac954d9f194ef0800000000000000
+      internalID: -123532754437758919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 81
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c43e7d02804fe0800000000000000
+      internalID: -1206821705671719262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 80
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47b7b0f96de14700800000000000000
+      internalID: 522960071017609038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 58
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0c73152e1ba6450800000000000000
+      internalID: 6082869832300609712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 77
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32502f6a4f3ba0ab0800000000000000
+      internalID: -5041018969533577949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 84
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c1988286105f850800000000000000
+      internalID: 6410031191500070045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 29
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4d4b90c0b44cbd0800000000000000
+      internalID: -2610879368893508366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 41
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d57b542a7fb2b60800000000000000
+      internalID: 7722538262383254916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bced4cb6325c2290800000000000000
+      internalID: -7913860050155869008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfc94cdae3138460800000000000000
+      internalID: 7242654525180989361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 43
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c63318bc73ca7020800000000000000
+      internalID: 2340397896804021953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81fe211f39b19a60800000000000000
+      internalID: 7679122520165773707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2718e031b8862a230800000000000000
+      internalID: 3648593594652983666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db4f8d0c0bea19f0800000000000000
+      internalID: -496826371871388716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 19
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5199b154e190f5a0800000000000000
+      internalID: -6489526653231197860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3163b4a31362d30800000000000000
+      internalID: 4406263411868308459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 42
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e137a12bd22cea20800000000000000
+      internalID: 3092885368654475744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 47
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5103babd7866f4f0800000000000000
+      internalID: -795333394971819681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 10
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e561d409ce7ed4200800000000000000
+      internalID: 166043764501845598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 45
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1669b12f9ce66f810800000000000000
+      internalID: 1798746914810467937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 18
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb7c18940687ae70800000000000000
+      internalID: 9126410524179594166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 30
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdbd3dc9b16c6640800000000000000
+      internalID: 5074538330779925954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 46
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357773ca736dfa2e0800000000000000
+      internalID: -2112234165612611757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59362eef69c611c80800000000000000
+      internalID: -8353776438018415723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5da47be823a39e30800000000000000
+      internalID: 4509127048072310111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 47
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142b731cabc1bd920800000000000000
+      internalID: 3016035963885826625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 18
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fe83ba85452b580800000000000000
+      internalID: -8812888781004148836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_43
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 49
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18152ccae85a7900800000000000000
+      internalID: 682956058970626078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2900cf8b3a1e17b0800000000000000
+      internalID: -5251731272350299859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb5463801affd20800000000000000
+      internalID: 3314544907410325473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_46
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a8a03b3d792fe0800000000000000
+      internalID: -1213300931426736291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_47
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 17
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3bee295ddb84150800000000000000
+      internalID: 5857140040386130909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_48
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601acbcd335376ae0800000000000000
+      internalID: -1556216649370263290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_49
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c278355cada9540800000000000000
+      internalID: 5015561676075248759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shards01_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 8
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc32e4755a0f3f000800000000000000
+      internalID: 68663012265698251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shards01_0: -5229866844369818627
+      shards01_1: -3882030590419469249
+      shards01_10: -3452404758292126870
+      shards01_11: -7667090922435807033
+      shards01_12: 3862778850245894513
+      shards01_13: -5114620357492916886
+      shards01_14: 8559884689440034488
+      shards01_15: 6585977534065825657
+      shards01_16: -123532754437758919
+      shards01_17: -1206821705671719262
+      shards01_18: 522960071017609038
+      shards01_19: 6082869832300609712
+      shards01_2: -4551129838829230963
+      shards01_20: -5041018969533577949
+      shards01_21: 6410031191500070045
+      shards01_22: -2610879368893508366
+      shards01_23: 7722538262383254916
+      shards01_24: -7913860050155869008
+      shards01_25: 7242654525180989361
+      shards01_26: 2340397896804021953
+      shards01_27: 7679122520165773707
+      shards01_28: 3648593594652983666
+      shards01_29: -496826371871388716
+      shards01_3: 6193081561861166665
+      shards01_30: -6489526653231197860
+      shards01_31: 4406263411868308459
+      shards01_32: 3092885368654475744
+      shards01_33: -795333394971819681
+      shards01_34: 166043764501845598
+      shards01_35: 1798746914810467937
+      shards01_36: 9126410524179594166
+      shards01_37: 5074538330779925954
+      shards01_38: -2112234165612611757
+      shards01_39: -8353776438018415723
+      shards01_4: -1258494215330787118
+      shards01_40: 4509127048072310111
+      shards01_41: 3016035963885826625
+      shards01_42: -8812888781004148836
+      shards01_43: 682956058970626078
+      shards01_44: -5251731272350299859
+      shards01_45: 3314544907410325473
+      shards01_46: -1213300931426736291
+      shards01_47: 5857140040386130909
+      shards01_48: -1556216649370263290
+      shards01_49: 5015561676075248759
+      shards01_5: 7537964748496189828
+      shards01_50: 68663012265698251
+      shards01_6: 7371579124669120435
+      shards01_7: -6394228007181011449
+      shards01_8: 4180558757046144074
+      shards01_9: -849726582163694566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beca32a2aa778645bf75aba63055bc2, type: 3}
+  m_Name: Spell_IceShard
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerAbility
+  abilityName: Ice Shard
+  description: Launch a shard of ice. 20 magic damage with a 10% chance to freeze
+    (skip 1 turn).
+  category: 1
+  targetType: 0
+  mpCost: 12
+  damageType: 2
+  baseDamage: 20
+  scalesWithStats: 1
+  appliesEffect: 1
+  effectChance: 0.1
+  effectName: Frozen
+  effectType: 4
+  effectDuration: 1
+  effectValue: 0
+  effectStat: 0
+  effectStackable: 0
+  appliesSelfEffect: 0
+  selfEffectName: 
+  selfEffectType: 5
+  selfEffectDuration: 1
+  selfEffectValue: 0
+  selfEffectStackable: 0
+  castSFX: {fileID: 0}

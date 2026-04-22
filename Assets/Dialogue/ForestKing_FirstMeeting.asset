@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6fced335fe0e624e8c9d175d9ff6239, type: 3}
+  m_Name: ForestKing_FirstMeeting
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  startNodeIndex: 0
+  nodes:
+  - editorLabel: King - Introduction
+    lines:
+    - speaker: ???
+      text: ...You.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 1
+      tags: []
+    - speaker: ???
+      text: A human. In my sanctuary. How unusual.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: I am the one they call the King of this forest. Or I was, before that
+        creature took root in the western caves.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: I tried to drive it out. As is my duty. As I have done for every threat
+        that has ever encroached upon these woods.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: I failed.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: The wound it left me... I can barely stand, let alone fight. And without
+        my presence keeping order, the lesser creatures have gone feral.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: "That is why your kind has been troubled. The monsters harassing the
+        village, the chaos in the woods \u2014 it all stems from my failure."
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices:
+    - choiceText: (What is this creature?)
+      nextNodeIndex: 1
+    - choiceText: (What do you want from me?)
+      nextNodeIndex: 2
+    - choiceText: (...)
+      nextNodeIndex: 3
+    nextNodeIndex: -1
+  - editorLabel: King - About the Wraith
+    lines:
+    - speaker: King of the Forest
+      text: "A Wraith. An old one. It feeds on the life force of anything nearby
+        \u2014 plants, animals, even the land itself."
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: It has nested deep in the caves to the west, past the great tree. You
+        will know you are close when the air suddenly grows cold and heavy with it's
+        stench.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: It is not especially strong in body. But it is cunning. It drains your
+        stamina, silences your abilities, and makes you slow while it strikes again
+        and again.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: I was faster than it. Stronger. But I was not prepared for its tricks.
+        Do not make my mistake.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices: []
+    nextNodeIndex: 4
+  - editorLabel: King - Request
+    lines:
+    - speaker: King of the Forest
+      text: I cannot ask anything of you. You owe me nothing, and I owe you even
+        less.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: But if you care for the village, that creature must die. It will only
+        grow stronger the longer it feeds.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: The cave is to the west, past the great tree. The flowers on its trunk
+        still bloom, that tree is the last thing in this forest resisting the Wraith's
+        influence.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: When those flowers wilt, this forest is lost. And then, your village
+        will be next.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices: []
+    nextNodeIndex: 4
+  - editorLabel: King - Silent Response
+    lines:
+    - speaker: King of the Forest
+      text: You say nothing. Good. I am tired of words.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: If you wish to act, go west past the great tree. The cave there holds
+        the source of everything wrong with this forest.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: If you wish to leave... I will not stop you. I cannot stop much of anything
+        right now.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices: []
+    nextNodeIndex: 4
+  - editorLabel: King - Farewell
+    lines:
+    - speaker: King of the Forest
+      text: One more thing.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: The creatures in this forest... they are not evil. They are frightened,
+        confused. My presence once kept them calm.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: If you can end the Wraith, the forest will heal.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    - speaker: King of the Forest
+      text: I will be here. Waiting. It is all I can do.
+      portraitOverride: {fileID: 0}
+      emote: 
+      sfx: {fileID: 0}
+      sfxVolume: 1
+      autoAdvanceDelay: 0
+      tags: []
+    choices: []
+    nextNodeIndex: -1
